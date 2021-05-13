@@ -15,7 +15,7 @@ packaging==20.3
 pluggy==0.13.1
 py==1.8.1
 pycparser==2.20
-pydantic==1.5.1
+pydantic==1.6.2
 pymongo==3.10.1
 pymongocrypt==1.0.0
 pyparsing==2.4.7
